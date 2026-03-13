@@ -1,0 +1,6 @@
+from sklearn.preprocessingimport MinMaxScaler
+
+scaler = MinMaxScaler()
+
+data[['distance','rating']] = scaler.fit_transform(data[['distance','rating']])
+
