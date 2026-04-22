@@ -3,3 +3,11 @@ It combines machine learning with location analytics to rank places based on dis
 The system delivers personalized, accurate, and time-aware recommendations for restaurants, cafes, and essential services.
 Designed for real-world usability, it enhances decision-making with smart, data-driven insights.
 A perfect blend of AI and practicality, transforming how users discover and explore nearby experiences.
+
+
+Key Features:
+Nearby place recommendations
+Preference-based filtering
+Location-aware suggestions
+Rating analysis
+Personalized recommendation engine
